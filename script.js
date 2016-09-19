@@ -1,5 +1,5 @@
 //Create an array called `colors` that contains three colors.
-colors = ["red", "yellow", "green"];
+var colors = ["red", "yellow", "green"];
 
 // Log the last item in the array to the console.
 console.log(colors[2]);
@@ -10,7 +10,7 @@ for(var i = 0; i < colors.length; i++){
 }
 
 // Create an `instructor` object that contains three key-value pairs.
-instructor = {
+var instructor = {
   name: "Jesse",
   age: 27,
   gender: "male"
