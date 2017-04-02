@@ -18,7 +18,7 @@ Commit after each question.
 1. Link to `stoplight.js` in `index.html`
 
 1. Create an event listener(s) so that when you click on a light, it turns to its respective color (i.e., top light turns red).
-> Check out `style.css` and examine the default styling first
+  - Check out `style.css` and examine the default styling first
 
 1. If you click a light that is already on, it turns off.
 
